@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-
+// Teste note
 typedef int TipoChave;
 typedef int TipoValor;
 struct TipoListaSimples
